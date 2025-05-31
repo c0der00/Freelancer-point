@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1"
+  },
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
