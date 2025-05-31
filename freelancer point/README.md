@@ -18,4 +18,4 @@ This full-stack MERN freelance job marketplace application revolutionizes the wa
 - Express
 - MongoDB
 - React Query
-- SASS
+- Socket IO
